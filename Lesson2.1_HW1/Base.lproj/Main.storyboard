@@ -43,7 +43,7 @@
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="SzS-3U-ZRw">
                                 <rect key="frame" x="143" y="808" width="128" height="31"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="128" id="B0T-mq-zKv"/>
+                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="128" id="B0T-mq-zKv"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="filled" title="START"/>
